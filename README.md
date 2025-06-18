@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Kaioken-Glitch
 
 ## 🚀 About Me
-I'm a passionate developer, creative, and builder from [Your Country].
+I'm a passionate developer, creative, and builder from Kenya.
 
 - 🔭 I’m currently working on **A text based Game in basic HTMl**
 - 🌱 I’m currently learning **Javascript and its Frameworks**
