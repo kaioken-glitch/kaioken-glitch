@@ -3,11 +3,11 @@
 ## 🚀 About Me
 I'm a passionate developer, creative, and builder from [Your Country].
 
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **[Tech/Topic you're learning]**
+- 🔭 I’m currently working on **[A text based Game in basic HTMl]**
+- 🌱 I’m currently learning **[Javascript and its Frameworks]**
 - 💬 Ask me about **Web Development, APIs, UI/UX, and CSS Tricks**
 - 📫 Reach me at **[Your Email or Linktree]**
-- ⚡ Fun fact: I [something fun about you]
+- ⚡ Fun fact: I [actually did self taught learning.]
 
 ---
 
@@ -21,8 +21,8 @@ I'm a passionate developer, creative, and builder from [Your Country].
 ---
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/YourUsername)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaioken-glitch&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)](https://github.com/YourUsername)
 
 ---
 
