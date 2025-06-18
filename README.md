@@ -22,12 +22,12 @@ I'm a passionate developer, creative, and builder from [Your Country].
 
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaioken-glitch&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)](https://github.com/YourUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioken-glitch&layout=compact)](https://github.com/YourUsername)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/dutch-lady)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat)](https://yourwebsite.com)
 
