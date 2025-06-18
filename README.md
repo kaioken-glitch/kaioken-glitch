@@ -6,7 +6,7 @@ I'm a passionate developer, creative, and builder from [Your Country].
 - 🔭 I’m currently working on **[A text based Game in basic HTMl]**
 - 🌱 I’m currently learning **[Javascript and its Frameworks]**
 - 💬 Ask me about **Web Development, APIs, UI/UX, and CSS Tricks**
-- 📫 Reach me at **[Your Email or Linktree]**
+- 📫 Reach me at **[lightningcyranus@gmail.com]**
 - ⚡ Fun fact: I [actually did self taught learning.]
 
 ---
