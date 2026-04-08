@@ -98,6 +98,8 @@ Features: Local playback · YouTube streaming · Synced lyrics · Album art–de
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaioken-glitch&bg_color=0d1117&color=00FFD1&line=00FFD1&point=FF2D78&area=true&area_color=00FFD1&hide_border=true" />
+
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kaioken-glitch&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFD1&fire=FF2D78&currStreakLabel=00FFD1" />
