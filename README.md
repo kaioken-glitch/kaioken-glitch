@@ -98,57 +98,6 @@ Features: Local playback · YouTube streaming · Synced lyrics · Album art–de
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180">
-  <defs>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00FFD1"/>
-      <stop offset="100%" stop-color="#FF2D78"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="480" height="180" rx="8" fill="#0d1117"/>
-  <rect width="480" height="180" rx="8" fill="none" stroke="#1a1f2e" stroke-width="1"/>
-
-  <!-- Title -->
-  <text x="20" y="30" font-family="monospace" font-size="10" fill="#2e3650" letter-spacing="3">// GITHUB ACTIVITY</text>
-
-  <!-- Card 1: Contributions -->
-  <rect x="16" y="44" width="104" height="72" rx="5" fill="#0a0d14" stroke="#1a1f2e" stroke-width="1"/>
-  <text x="68" y="78" font-family="monospace" font-size="20" font-weight="700" fill="#00FFD1" text-anchor="middle">559</text>
-  <text x="68" y="93" font-family="monospace" font-size="7.5" fill="#3a4060" text-anchor="middle" letter-spacing="1">CONTRIBUTIONS</text>
-  <text x="68" y="106" font-family="monospace" font-size="7" fill="#252a3a" text-anchor="middle">Apr 2021 – Present</text>
-  <rect x="22" y="112" width="92" height="2" rx="1" fill="#1a1f2e"/>
-  <rect x="22" y="112" width="69" height="2" rx="1" fill="url(#bar)"/>
-
-  <!-- Card 2: Streak -->
-  <rect x="132" y="44" width="104" height="72" rx="5" fill="#0a0d14" stroke="#1a1f2e" stroke-width="1"/>
-  <text x="184" y="78" font-family="monospace" font-size="20" font-weight="700" fill="#FF2D78" text-anchor="middle">13</text>
-  <text x="184" y="93" font-family="monospace" font-size="7.5" fill="#3a4060" text-anchor="middle" letter-spacing="1">LONGEST STREAK</text>
-  <text x="184" y="106" font-family="monospace" font-size="7" fill="#252a3a" text-anchor="middle">May – Jun 2025</text>
-  <rect x="138" y="112" width="92" height="2" rx="1" fill="#1a1f2e"/>
-  <rect x="138" y="112" width="37" height="2" rx="1" fill="url(#bar)"/>
-
-  <!-- Card 3: Repos -->
-  <rect x="248" y="44" width="104" height="72" rx="5" fill="#0a0d14" stroke="#1a1f2e" stroke-width="1"/>
-  <text x="300" y="78" font-family="monospace" font-size="20" font-weight="700" fill="#FFD700" text-anchor="middle">81</text>
-  <text x="300" y="93" font-family="monospace" font-size="7.5" fill="#3a4060" text-anchor="middle" letter-spacing="1">REPOSITORIES</text>
-  <text x="300" y="106" font-family="monospace" font-size="7" fill="#252a3a" text-anchor="middle">Public + Private</text>
-  <rect x="254" y="112" width="92" height="2" rx="1" fill="#1a1f2e"/>
-  <rect x="254" y="112" width="50" height="2" rx="1" fill="url(#bar)"/>
-
-  <!-- Card 4: Language -->
-  <rect x="364" y="44" width="100" height="72" rx="5" fill="#0a0d14" stroke="#1a1f2e" stroke-width="1"/>
-  <text x="414" y="78" font-family="monospace" font-size="20" font-weight="700" fill="#00FFD1" text-anchor="middle">95%</text>
-  <text x="414" y="93" font-family="monospace" font-size="7.5" fill="#3a4060" text-anchor="middle" letter-spacing="1">JAVASCRIPT</text>
-  <text x="414" y="106" font-family="monospace" font-size="7" fill="#252a3a" text-anchor="middle">Top Language</text>
-  <rect x="370" y="112" width="88" height="2" rx="1" fill="#1a1f2e"/>
-  <rect x="370" y="112" width="84" height="2" rx="1" fill="url(#bar)"/>
-
-  <!-- Footer -->
-  <text x="240" y="158" font-family="monospace" font-size="8" fill="#1a1f2e" text-anchor="middle" letter-spacing="2">KAIOKEN-GLITCH · NAIROBI 🇰🇪</text>
-</svg>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kaioken-glitch&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFD1&fire=FF2D78&currStreakLabel=00FFD1" />
