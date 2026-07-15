@@ -1,251 +1,123 @@
-<div align="center">
-
-# KAIOKEN-GLITCH
-
-### Building software that feels alive.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express;Designing+immersive+web+experiences.;Creating+what's+in+mind." />
-
-<p>
-
-<a href="https://github.com/kaioken-glitch">
-<img src="https://img.shields.io/github/followers/kaioken-glitch?style=for-the-badge&logo=github&color=00FFD1&labelColor=111111"/>
-</a>
-
-<a href="https://lqdbars.onrender.com">
-<img src="https://img.shields.io/badge/Live-Liquid_Bars-FF2D78?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
-
-<a href="mailto:lightningcyranus@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=kaioken-glitch&style=for-the-badge&color=00FFD1)
-
-</div>
-
----
-
-# About
-
-I'm **Kaioken-Glitch**, a full-stack JavaScript developer from Kenya.
-
-I enjoy building products where engineering and design carry equal weight. My focus isn't just writing code—it's creating experiences that feel fluid, polished, and memorable.
-
-Currently building products with the **MERN ecosystem**, while exploring **Next.js**, **WebGL**, **Python**, **C#**, and scalable system architecture.
-
-> **Good software solves problems. Great software creates experiences.**
-
----
-
-# Philosophy
-
-```javascript
-const kaioken = {
-    alias: "Kaioken-Glitch",
-
-    location: "Kenya",
-
-    currentlyBuilding: "Liquid Bars",
-
-    learning: [
-        "Next.js",
-        "Python",
-        "C#",
-        "System Design",
-        "Docker"
-    ],
-
-    interests: [
-        "Frontend Engineering",
-        "Creative Development",
-        "UI Animation",
-        "WebGL",
-        "Developer Experience"
-    ],
-
-    mission:
-        "Build products that people remember."
-}
-```
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
-</p>
-
-## DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,github,vscode,figma" />
-</p>
-
----
-
-# Featured Project
-
-# Liquid Bars
-
-> **A music player that doesn't feel like software.**
-
-A browser-first music platform built from the ground up with a strong emphasis on interaction design.
-
-### Features
-
-- Local music playback
-- YouTube streaming
-- LRCLIB synchronized lyrics
-- Animated WebGL backgrounds
-- Dynamic album-color extraction
-- Mobile fullscreen player
-- Supabase authentication
-- User profiles
-- Responsive UI
-- Express backend
-- Docker deployment
-
-### Architecture
-
-```
-React + Vite
-      │
-      ▼
- UI Components
-      │
-      ▼
- State Management
-      │
-      ▼
- Express API
-      │
-      ├──────────► yt-dlp
-      │
-      ├──────────► LRCLIB
-      │
-      └──────────► Supabase
-```
-
-### Tech
-
-```
-React
-Node.js
-Express
-Supabase
-Docker
-WebGL (OGL)
-Vite
-```
-
-### Links
-
-🌐 Live
-
-https://lqdbars.onrender.com
-
-📦 Repository
-
-https://github.com/kaioken-glitch/LQDBars
-
----
-
-# GitHub Analytics
+<!-- ============================================================
+     KAIOKEN-GLITCH — GitHub Profile README
+     ============================================================ -->
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaioken-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioken-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=kaioken-glitch&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaioken-glitch&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# Current Focus
 
 ```text
-Building
-────────
-● Liquid Bars
+██╗  ██╗ █████╗ ██╗ ██████╗ ██╗  ██╗███████╗███╗   ██╗
+██║ ██╔╝██╔══██╗██║██╔═══██╗██║ ██╔╝██╔════╝████╗  ██║
+█████╔╝ ███████║██║██║   ██║█████╔╝ █████╗  ██╔██╗ ██║
+██╔═██╗ ██╔══██║██║██║   ██║██╔═██╗ ██╔══╝  ██║╚██╗██║
+██║  ██╗██║  ██║██║╚██████╔╝██║  ██╗███████╗██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+         G L I T C H
+```
 
-Learning
-────────
-● Python
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Building+interfaces+that+feel+alive.;MERN+%C2%B7+Next.js+%C2%B7+Tailwind+%C2%B7+Express;Code+is+my+medium.+The+web+is+my+canvas." />
 
-● C#
+<br/>
 
-● System Design
+[![](https://img.shields.io/badge/lqdbars.onrender.com-live_demo-00FFD1?style=flat-square&logo=render&logoColor=black)](https://lqdbars.onrender.com)
+&nbsp;
+[![](https://img.shields.io/badge/lightningcyranus%40gmail.com-reach_out-FF2D78?style=flat-square&logo=gmail&logoColor=white)](mailto:lightningcyranus@gmail.com)
+&nbsp;
+[![](https://img.shields.io/badge/Kenya-Nairobi-FFD700?style=flat-square&logo=googlemaps&logoColor=black)](#)
 
-● Docker
+</div>
 
-● WebGL
+---
 
-Interested In
-─────────────
-● Frontend Engineering
+## `whoami`
 
-● Creative Development
+I'm **Kaioken-Glitch** — a self-taught developer and digital craftsman who treats code like an art form. I obsess over the gap between *functional* and *beautiful* and spend most of my time trying to close it.
 
-● Open Source
+Currently deep in the MERN stack + Next.js ecosystem, building tools that feel less like software and more like experiences.
 
-● Product Design
+```js
+const kaioken = {
+  location  : "Nairobi, Kenya 🇰🇪",
+  learning  : ["C#", "Python", "System Design"],
+  building  : "Liquid Bars — a music player that doesn't feel like software",
+  open_to   : "Creative tech collabs, UI-heavy projects, open source",
+  philosophy: "Creating what's in mind.",
+};
 ```
 
 ---
 
-# Open To
+## `stack`
 
-- Frontend Development
-- Full-Stack Development
-- Open Source Collaboration
-- UI Engineering
-- Creative Coding
-- Remote Opportunities
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & Auth**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-# Connect
+## `projects`
+
+### 🎵 Liquid Bars
+
+> *A music player that doesn't feel like software.*
+
+A full-featured browser music player — local files, YouTube streaming via `yt-dlp`, karaoke-style synced lyrics (LRCLIB), and a WebGL iridescence shader background that shifts with every track. No Electron. No native app. Just React, Node/Express, and an obsessive attention to detail.
+
+**Stack:** `React 18` · `Vite` · `Node.js` · `Express` · `Supabase` · `OGL (WebGL)` · `Docker`
+
+[![Repo](https://img.shields.io/badge/GitHub-LQDBars-00FFD1?style=flat-square&logo=github&logoColor=white)](https://github.com/kaioken-glitch/LQDBars)
+[![Live](https://img.shields.io/badge/Live-lqdbars.onrender.com-FF2D78?style=flat-square&logo=render&logoColor=white)](https://lqdbars.onrender.com)
+
+```text
+Features: Local playback · YouTube streaming · Synced lyrics · Album art–derived UI color
+          · WebGL animated BG · Supabase auth & profiles · Mobile fullscreen player
+```
+
+---
+
+## `stats`
 
 <div align="center">
 
-<a href="mailto:lightningcyranus@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaioken-glitch&bg_color=0d1117&color=00FFD1&line=00FFD1&point=FF2D78&area=true&area_color=00FFD1&hide_border=true" />
 
-<a href="https://linkedin.com/in/dutchlady">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://twitter.com/OgYapZ">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaioken-glitch&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFD1&fire=FF2D78&currStreakLabel=00FFD1" />
+
+</div>
+
+---
+
+## `connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dutchlady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dutchlady)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@OgYapZ-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OgYapZ)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-lightningcyranus-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lightningcyranus@gmail.com)
 
 </div>
 
@@ -253,10 +125,8 @@ Interested In
 
 <div align="center">
 
-## "Software should disappear behind the experience."
+*"I'm not just building apps — I'm crafting digital experiences."*
 
-**KAIOKEN-GLITCH**
-
-*Design. Engineer. Iterate.*
+`Nairobi → The Internet → Everywhere`
 
 </div>
