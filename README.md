@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=KAIOKEN%20GLITCH&fontColor=FFFFFF&fontSize=62&fontAlignY=42&desc=CASE%20FILE%20No.%20001%20%7C%20FULL-STACK%20[...]
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=KAIOKEN%20GLITCH&fontColor=FFFFFF&fontSize=62&fontAlignY=42&desc=CASE%20FILE%20No.%20001%20%7C%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=68" width="100%" alt="KAIOKEN GLITCH - Case File No. 001 - Full-Stack Developer" />
 
 *The city never sleeps. Neither does the build pipeline.*
 
