@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=KAIOKEN%20GLITCH&fontColor=FFFFFF&fontSize=62&fontAlignY=42&desc=CASE%20FILE%20No.%20001%20%7C%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=68" width="100%" alt="KAIOKEN GLITCH - Case File No. 001 - Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=KAIOKEN%20GLITCH&fontColor=FFFFFF&fontSize=62&fontAlignY=42&desc=CASE%20FILE%20No.%20001%20%7C%20FULL-STACK%20[...]
 
 *The city never sleeps. Neither does the build pipeline.*
 
@@ -66,6 +66,18 @@ A full-featured player that runs entirely in the browser. No Electron, no native
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+### THE SIGNALS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioken-glitch&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Programming languages used across my public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaioken-glitch&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
